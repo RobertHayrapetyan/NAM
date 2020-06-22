@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NAM</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="shushi">Shoushi</string>
+    <string name="gallery">Gallery</string>
+    <string name="settings">Settings</string>
+    <string name="yerevan">Yerevan</string>
+    <string name="contacts">Contacts</string>
+    <string name="about">NAM About</string>
+    <string name="naregatsi">Naregatsi</string>
+    <string name="nam_about_head">NAREGATSI ART INSTITUTE</string>
+    <string name="nam_about_subhead">Your Cultural Connection to Armenia</string>
+    <string name="nam_about">
+        " "Naregatsi Art Institute (NAI) is a non-profit "\n"
+        art organization established in 2000 with "\n"
+        headquarters in Yerevan since 2004 and an "\n"
+        educational art center in Shushi since 2006. "\n"
+        Founded by philanthropist Nareg Hartounian "\n"
+        and named after SaintGregory of Narek, the "\n"
+        NAI’s principle mission is to preserve and "\n"
+        promote Armenian art, culture and spiritual "\n"
+        values."\n""\n"
+
+        Since its inception, the NAI each year has "\n"
+        presented more than 300 concerts, exhibitions, "\n"
+        lectures, master classes and film screenings "\n"
+        collaborating with a great number of artists "\n"
+        from Armenia and abroad. As part of its "\n"
+        contribution to Armenian culture, NAI "\n"
+        hascreated numerous unique books, CD’s and"\n"
+        publications exploring various facets of the "\n"
+        rich Armenian cultural heritage."\n""\n"
+
+        The NAI is home to The Naregatsi Orchestra, "\n"
+        The Nova Children’s Ensemble (each of which "\n"
+        presents concerts locally and internationally), "\n"
+        The Njdeh Folk Dance Group and The "\n"
+        PaintingClass after Sevan Naccashian."\n""\n"
+
+        The Art Center in Shushi provides a variety of "\n"
+        classes in music (including piano, bard songs "\n"
+        class, choir), as well asinstructions in "\n"
+        painting, wood engraving, photography, theater, "\n"
+        puppet theater,dance, recitation, carpet making, "\n"
+        English language, art therapy,computer "\n"
+        graphics and Naregatsi Shushi also provides "\n"
+        itsown unique series of designing."\n"
+        presentations and cultural events."\n""\n"
+
+        The NAI provides a special place for children, "\n"
+        emerging artists, artists with disabilities and "\n"
+        artists living in the regions of Armenia outside "\n"
+        of Yerevan. It also provides space and "\n"
+        resources to anyone with something of artistic "\n"
+        value to share."\n""\n"
+
+        All activities at the NAI are free of charge for "\n"
+        both the audience and featured talent."\n""\n""\n""\n"
+    </string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_header_general">General</string>
+    <string name="language">Language</string>
+    <string name="app_lang_choice">App language choice</string>
+    <string name="notifications">Notifications</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="donate">Donate</string>
+    <string name="communicate">Communicate</string>
+    <string name="naregatsi_aplication_download_link">Naregatsi Aplication Download Link:</string>
+    <string name="yerevan_armenia">Yerevan, Armenia</string>
+    <string name="vardanants16">16/1 Vardanants Str.</string>
+    <string name="shushi_artsakh">Shoushi, Artsakh</string>
+    <string name="mouracan6">6 Mouratsan Str.</string>
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations</string>
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_title_new_message_notifications">notifications</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

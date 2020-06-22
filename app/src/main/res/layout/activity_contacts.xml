@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.rob.try3.ContactsActivity"
+    android:background="@drawable/background">
+    <LinearLayout
+        android:layout_margin="30dp"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_height="wrap_content"
+            android:text="@string/yerevan_armenia"
+            android:textSize="20sp"
+            android:textIsSelectable="true"/>
+
+        <TextView
+            android:textIsSelectable="true"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vardanants16"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:textIsSelectable="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColorLink="@color/colorPrimaryDark"
+            android:text="+374 10 580105"
+            android:autoLink="phone"/>
+
+        <TextView
+            android:textIsSelectable="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColorLink="@color/colorPrimaryDark"
+            android:text="barev@naregatsi.org"
+            android:autoLink="email"/>
+    </LinearLayout>
+    <LinearLayout
+
+        android:layout_margin="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal|center_vertical">
+
+        <TextView
+            android:textIsSelectable="true"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/shushi_artsakh"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:textIsSelectable="true"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="16sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/mouracan6"/>
+
+        <TextView
+            android:textIsSelectable="true"
+            android:textColorLink="@color/colorPrimaryDark"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+374 477 31466"
+            android:autoLink="phone"/>
+
+        <TextView
+            android:textIsSelectable="true"
+            android:textColorLink="@color/colorPrimaryDark"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="shushi@naregatsi.org"
+            android:autoLink="email"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_margin="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal|center_vertical">
+
+        <TextView
+            android:textIsSelectable="true"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="20sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Jersey, USA"/>
+
+        <TextView
+            android:textIsSelectable="true"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="16sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Van Brunt Street \n      Englewood"/>
+
+        <TextView
+            android:textIsSelectable="true"
+            android:textColorLink="@color/colorPrimaryDark"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="info@naregatsi.org"
+            android:autoLink="email"/>
+
+    </LinearLayout>
+</LinearLayout>

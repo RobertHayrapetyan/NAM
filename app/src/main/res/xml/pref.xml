@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="switch_preference_notif"
+        android:title="@string/notifications" />
+    <ListPreference
+        android:defaultValue="1"
+        android:entries="@array/lang_array"
+        android:entryValues="@array/list_preference_entries"
+        android:key="list_preference_language"
+        android:summary="@string/app_lang_choice"
+        android:title="@string/language"
+        />
+</PreferenceScreen>
